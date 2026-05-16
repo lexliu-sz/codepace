@@ -4,6 +4,7 @@ Tap once for each character you type on your physical keyboard. Codepace measure
 
 iPhone & iPad. Free. No ads, no in-app purchases, no accounts, no network.
 
+
 ## Support
 
 Email: **lexliu@qq.com**
