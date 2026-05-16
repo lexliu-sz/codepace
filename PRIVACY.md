@@ -1,6 +1,6 @@
 # Codepace Privacy Policy
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-16_
 
 Codepace does not collect, transmit, or store any user data.
 
